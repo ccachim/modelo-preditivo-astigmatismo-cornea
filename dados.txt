@@ -1,0 +1,54 @@
+Dados
+L - lenstar
+C - cassini
+
+TCA - calculado a partir de valores posteriores e anteriores da cornea
+KA - calculado pelos valores keratometricos de dois meridianos da face anterior da cornea
+
+*CASSINI*
+
+NHC - id paciente
+C_Eye - olho
+C_Mode - phakic/aphakic/pseudophakic
+C_K_Axis - eixo keratometrico
+C_K2 - indice keratometrica meridiano 2
+C_K1 - indice keratometrica meridiano 1
+C_K_Ast - diferença entre C_K1 e C_K2, astigmatismo keratometrico
+
+TCA - total corneal astigmatism (vetor)
+C_TCA_Axis - angulo
+C_TCA_Ast - valor
+
+Valores keratometricos anteriores
+C_Ant_Axis - 
+C_Ant_D2 - 
+C_Ant_D1 - 
+C_Ant_ast -
+
+Valores keratometricos posteriores
+C_Post_Axis - 
+C_Post_D2 - 
+C_Post_D1 - 
+C_Post_ast -
+
+Quality factors
+Date
+
+*LENSTAR*
+
+NHC
+L_Eye
+L_Mode
+L_CCT - central cornea thickness
+L_LT - lens thickness
+
+colunas mais importantes
+L_R1 - raio
+L_K1 - potência keratometrica
+L_R2 - raio
+L_K2 - potência keratometrica
+
+L_Ast - 
+L_Axis - 
+L_WTW - diametro da córnea
+L_Ast_Type - ATR: against the rule (0,30;150,180), WTR: with the rule (60,120); obl: obliquo (30,60;120,150)
