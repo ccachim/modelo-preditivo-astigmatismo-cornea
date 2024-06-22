@@ -19,16 +19,10 @@ TCA - total corneal astigmatism (vetor)
 C_TCA_Axis - angulo
 C_TCA_Ast - valor
 
-Valores keratometricos anteriores
 C_Ant_Axis - 
-C_Ant_D2 - 
-C_Ant_D1 - 
 C_Ant_ast -
 
-Valores keratometricos posteriores
 C_Post_Axis - 
-C_Post_D2 - 
-C_Post_D1 - 
 C_Post_ast -
 
 Quality factors

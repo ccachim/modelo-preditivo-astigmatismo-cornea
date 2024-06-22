@@ -1,0 +1,16 @@
+Os melhores métodos acabam por ser as regressões mais simples, porque só estamos a considerar 2 inputs, ML seria mais útil para mais inputs
+
+Unsupervised seria útil para categorizar mas acho que não é isso que queremos
+
+Classification tb penso que não é util porque queremos ter o eixo
+
+Considerei 2 desvios padrão ou seja os 95%
+
+Ridge e lasso são uma regressão linear normal ou seja a loss function é least squares, mas têm regularização ou seja, fazem um alteração na lossa function para reduzir a variancia mesmo que o bias aumente
+
+Não separei em obl, atr, wtr nos algoritmos de ML porque achei que eram poucos dados para fazer sentido
+
+Cross validation?
+
+
+Pôr código e imagens em anexo, criar repositório de github
