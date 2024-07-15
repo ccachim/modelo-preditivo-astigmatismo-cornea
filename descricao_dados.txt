@@ -1,0 +1,52 @@
+Dados
+L - lenstar
+C - cassini
+
+TCA - calculado a partir de valores posteriores e anteriores da cornea
+KA - calculado pelos valores keratometricos de dois meridianos da face anterior da cornea
+
+Phakic - lente natural
+Aphakic - sem lente
+Pseudophakic - lente artificial
+
+*CASSINI*
+
+NHC - id paciente
+C_Eye - olho: esquerdo (OS)/direito (OD)
+C_Mode - modo da lente: phakic/aphakic/pseudophakic
+C_K_Axis - eixo keratometrico
+C_K2 - indice keratometrica meridiano 2
+C_K1 - indice keratometrica meridiano 1
+C_K_Ast - astigmatismo keratometrico que corresponde à diferença entre C_K1 e C_K2
+
+TCA - total corneal astigmatism (vetor)
+C_TCA_Axis - eixo do astigmatismo total da cornea
+C_TCA_Ast - magnitude do astigmatismo total da cornea
+
+C_Ant_Axis - eixo do astigmatismo da cornea anterior
+C_Ant_ast - magnitude do astigmatismo da cornea anterior
+
+C_Post_Axis - eixo do astigmatismo da cornea posterior
+C_Post_ast - magnitude do astigmatismo da cornea posterior
+
+Quality factors 
+    único quality factor utilizado é o Quality_Factor_Posterior_Value (QFPV)
+Date
+
+*LENSTAR*
+
+NHC
+L_Eye - olho: esquerdo (OS)/direito (OD)
+L_Mode - modo da lente: phakic/aphakic/pseudophakic
+L_CCT - central cornea thickness
+L_LT - lens thickness
+
+L_R1 - raio meridiano 1
+L_K1 - potência keratometrica meridiano 1
+L_R2 - raio meridiano 2
+L_K2 - potência keratometrica meridiano 2
+
+L_Ast - magnitude do astigmatismo
+L_Axis - eixo do astigmatismo
+L_WTW - diametro da córnea
+L_Ast_Type - ATR: against the rule (0,30;150,180), WTR: with the rule (60,120); obl: obliquo (30,60;120,150)
