@@ -22,7 +22,7 @@ Processamento e análise utilizando técnicas de machine learning.
 Esta pasta contém adaptações da base de dados Cassini após o pré-processamento consoante as amostras consideradas na análise, organizadas por categoria do eixo de astigmatismo e presença/ausência de outliers em relação à magnitude das amostras consideradas na análise.
 
 ## imagens
-Nesta pasta estão disponíveis imagens relacionadas com a análise das regressões lineares e técnicas de machine learning.
+Nesta pasta estão disponíveis imagens relacionadas com a análise das regressões lineares e técnicas de machine learning. Cada uma destas análise contém resultados relativos à relação entre o astigmatismo anterior e o posterior e entre o astimatismo anteior e o TCA
 
 ## tabelas_resultados
 Esta pasta contém as tabelas de resultados da análise preliminar, regressões lineares e técnicas de machine learning.
